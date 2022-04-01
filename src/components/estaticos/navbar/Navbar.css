@@ -1,0 +1,7 @@
+.cursor {
+    cursor: pointer;
+    color: rgb(171, 179, 223);
+}
+.text-decorator-none{
+    text-decoration: none;
+}
